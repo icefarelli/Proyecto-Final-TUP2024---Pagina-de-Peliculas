@@ -39,8 +39,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
 
 1. **Clona el repositorio y posicionamiento en la carpeta del proyecto**:
    ```
-   git clone https://github.com/icefarelli/TP-final---Pagina-web-Peliculas---TUP-2024.git
-   cd TP-final-angular-peliculas
+   git clone https://github.com/icefarelli/Proyecto-Final-TUP2024---Pagina-de-Peliculas.git
+
    ```
 
 2. **Instala las dependencias**:
@@ -61,7 +61,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
    ```
 
 5. **Accede a la aplicación**:
-   Abre tu navegador y ve a [http://localhost:4200](http://localhost:4200).
+   Abre tu navegador y ve a http://localhost:4200.
 
 6. **Uso de la aplicación**:
    El usuario "admin" contraseña "admin" ya está creado en el servidor JSON. Puedes crear nuevos usuarios y películas a través de
